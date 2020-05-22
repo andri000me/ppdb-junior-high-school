@@ -149,7 +149,7 @@ Waktu Server <br> GMT+7:
 <td rowspan="4" valign="top"><table width="230" height="400" border="0" cellspacing="0" cellpadding="10">
 <tr class="left">
 <td valign="top" bgcolor="white"><ul class="navbar">
-<div align="center"><br><font style="background-color: #35A9DB;; padding-bottom: 15px; padding-left: 38px; padding-right: 38px; padding-top: 15px; font-size: 15px;">
+<div align="center"><br><font style="background-color: #35A9DB;; padding-bottom: 15px; padding-left: 8px; padding-right: 38px; padding-top: 15px; font-size: 15px;">
     <b>MENU UTAMA</b></font></div><br>
     <font style="font-size: 12px;">
 <li><a href="homeadmin.php?page=homeadmin" title="Beranda"><font color="black"> &nbsp;Beranda</font></a></li>
